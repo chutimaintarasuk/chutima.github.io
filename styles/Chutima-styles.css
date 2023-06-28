@@ -1,0 +1,23 @@
+html {
+    background-color: aliceblue;
+}
+body {
+
+    background-color: #faebd7;
+    margin: 0 auto;
+    width: 400px;
+    padding: 0 20px 20px 20px;
+    border: 5px solid wheat;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 40px;
+    color: #ffb3b3;
+}
